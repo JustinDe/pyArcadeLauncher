@@ -1,0 +1,33 @@
+{
+	"Meta":
+	{
+		"Version": "0.1",
+		"Author": "Justin Demetroff",
+		"CreationDate": "2015-05-13",
+		"DateModified": "2015-05-15"
+	},
+	"Games":
+	[
+		{
+			"Title": "Transplant",
+			"Image": "white.jpg",
+			"Link": "http://localhost/transplant/index.php",
+			"Description": "Test text for Transplant",
+			"Controls": "You will need a mouse and keyboard"
+		},
+		{
+			"Title": "Beholder High",
+			"Image": "white.jpg",
+			"Link": "http://localhost/beholder/index.php",
+			"Description": "Test text for Beholder High",
+			"Controls": "You will need a mouse and keyboard"
+		},
+		{
+			"Title": "Total Party Kill",
+			"Image": "white.jpg",
+			"Link": "http://localhost/tpk/index.html",
+			"Description": "Test text for TPK",
+			"Controls": "You will need a mouse and keyboard"
+		}
+	]
+}
